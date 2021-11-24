@@ -1,3 +1,5 @@
-let firstName = 'Sara$Jason'
+let firstName = 'Sara'
+let lastNmae = 'Rekab'
+let fullName = firstName + ' ' + lastNmae
 
-console.log(firstName)
+console.log(fullName)
